@@ -101,7 +101,3 @@ See the [docs/](docs/) folder for detailed documentation:
 - [x] Exploration notebook (`01_exploration.ipynb`)
 - [ ] Preprocessing pipeline (`src/data/`)
 - [ ] Feature engineering
-
-## License
-
-MIT
